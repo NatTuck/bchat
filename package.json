@@ -10,9 +10,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@popperjs/core": "^2.11.8",
     "@wllama/wllama": "^2.3.6",
+    "bootstrap": "^5.3.8",
     "react": "^19.1.1",
+    "react-bootstrap": "^2.10.10",
     "react-dom": "^19.1.1",
+    "sass": "^1.93.3",
     "vite-plugin-static-copy": "^3.1.4"
   },
   "devDependencies": {
